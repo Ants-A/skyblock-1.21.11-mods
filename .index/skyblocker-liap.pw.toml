@@ -1,0 +1,17 @@
+filename = 'skyblocker-6.2.0+1.21.11.jar'
+name = 'Skyblocker • Hypixel Skyblock'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v6.2.0+1.21.11'
+
+[download]
+hash = 'a1b1fb086a90586bc24cc41f07fee8fc049442f445cda953347f84e1337dfff449ba421da75bf9393ea7c41ba6bf9f574a9a6a67169e489e3a14445768863c9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y6DuFGwJ/versions/E6eA8eXs/skyblocker-6.2.0%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'y6DuFGwJ'
+version = 'E6eA8eXs'
