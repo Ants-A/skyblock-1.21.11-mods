@@ -1,0 +1,17 @@
+filename = 'relay-nm-mc1218_12111-0.1.0.jar'
+name = 'Relay - Network Manager'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.11', '1.21.11', '1.21.8', '1.21.8', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1.0'
+
+[download]
+hash = '97d10640b63968e92cef72d8311717a64ab25663c0f584d932cfa5be794d2c6b0177ce579bb092f0d8ee48fa6642c2f4ed6a58ecde1c0e93f2f47e46bfaae795'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrarXpuS/versions/WstbgkY2/relay-nm-mc1218_12111-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'nrarXpuS'
+version = 'WstbgkY2'
